@@ -115,7 +115,7 @@ p {
   flex-wrap: wrap;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 576px) {
   .primary-header {
     text-align: center;
     font-size: 24px;
@@ -126,5 +126,6 @@ p {
   .contact-link {
     display: block;
     text-align: center;
+    margin: 0 20px;
   }
 } ;
